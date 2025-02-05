@@ -9,7 +9,6 @@
 https://www.figma.com/proto/RRKfccl0gkgVavfD7rodWr/SU-BUS?node-id=991-6331&p=f&t=l8mYe0jMgix7aEtK-0&scaling=scale-down&content-scaling=fixed&page-id=101%3A10&starting-point-node-id=991%3A5934
 
 🏡ทีมพัฒนา
-ชื่อ	
 - สมัญญา กี่สุข	
 - อัญชลี สกุลฑิฆัมพร	
 - จารุพร ศิลารัตน์	
